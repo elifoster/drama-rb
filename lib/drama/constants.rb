@@ -92,9 +92,18 @@ module Drama
       'xbony2',
       'RealSketch',
       'Strikingwolf',
-      'cool_squid',
+      'CoolSquid',
       'trajing',
-      'Gideonseymour'
+      'Gideonseymour',
+      'VikeStep',
+      'Jinbobo',
+      'AgentTadpole/Nerixel',
+      'Lawbroken',
+      'KamranMackey',
+      'Cblair91',
+      'JZTech101',
+      'SanAndreasP',
+      'AEnterprise'
     ]
 
     SITES = [
@@ -161,7 +170,6 @@ module Drama
       'Minecraft',
       'XyCraft',
       'Forge',
-      'GregTech',
       'OpenBlocks',
       'OpenPeripheral',
       'OpenComputers',
@@ -235,7 +243,11 @@ module Drama
       'Agriculture',
       'Sync',
       'Hats',
-      'Nether Ores'
+      'Nether Ores',
+      'Flaxbeard\'s Steam Power',
+      'Armourer\'s Workshop',
+      'Botania',
+      'GregTech Unofficial'
     ]
 
     PACKS = [
@@ -395,7 +407,9 @@ module Drama
       'faster',
       'slower',
       'more stable',
-      'less buggy'
+      'less buggy',
+      'less stable',
+      'more buggy'
     ]
 
     BADVERBS = [
@@ -404,7 +418,8 @@ module Drama
       'flame',
       'cause drama about',
       'complain about',
-      'kick'
+      'kick',
+      'slap'
     ]
 
     PRICES = [
