@@ -2,12 +2,12 @@ a {
     color: #55C;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
     text-align: center;
     font-family: sans-serif;
 }
 
-h6 {
+h5 {
     text-align: center;
     font-weight: normal;
     color: #777;
