@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
 
-ruby '2.2.3'
+ruby '2.3.0'
 gem 'sinatra', '1.4.6'
