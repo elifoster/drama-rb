@@ -463,8 +463,7 @@ module Drama
       '[sites] urges everyone to stop using [things]',
       'After a [enormous] amount of requests, [packs] removes [things]',
       'After a [enormous] amount of requests, [packs] adds [things]',
-      'After a [enormous] amount of requests, [packs] adds [function] to ' \
-        '[things]',
+      'After a [enormous] amount of requests, [packs] adds [function] to [things]',
       '[people] plays [things] on Twitch',
       '[people] fixes [function] in [things] to be unlike [things]',
       '[things] makes [things] [crash], [sites] users complain',
@@ -474,16 +473,12 @@ module Drama
       '[people] made [things] depend on [things]',
       '[people] bans [people] from using [things] in [packs]',
       '[people] complains that [things] discussion doesn\'t belong on [sites]',
-      '[people] has a Patreon goal to add [function] to [things] for [price] ' \
-        'a month',
-      '[people] has a Patreon goal to add [things] compatibility to [things] ' \
-        'for [price] a month',
+      '[people] has a Patreon goal to add [function] to [things] for [price] a month',
+      '[people] has a Patreon goal to add [things] compatibility to [things] for [price] a month',
       '[people] complains that [people] replaced [things] by [things]',
-      '[people] complains that [people] replaced [things] by [things] in ' \
-        '[packs]',
+      '[people] complains that [people] replaced [things] by [things] in [packs]',
       '[people] complains that [people] removed [function] in [packs]',
-      '[people] decided that [things] is too [adj] and replaced it with ' \
-        '[things]',
+      '[people] decided that [things] is too [adj] and replaced it with [things]',
       '[people] [says] [things] is [adj].',
       '[people] [says] [things] is literally [adj].',
       '[things] is not updated for the latest version of Minecraft.',
@@ -492,12 +487,9 @@ module Drama
       '[people] quits modding. Fans of [things] rage.',
       '[people] is found to secretly like [things]',
       '[people] openly hates [function] in [things]',
-      '[people] threatens to [ac1] [people] until they remove [things] from ' \
-        '[packs]',
-      '[people] threatens to [ac1] [people] until they remove [function] ' \
-        'from [things]',
-      '[people] threatens to [ac1] [people] until they add [function] to ' \
-        '[things]',
+      '[people] threatens to [ac1] [people] until they remove [things] from [packs]',
+      '[people] threatens to [ac1] [people] until they remove [function] from [things]',
+      '[people] threatens to [ac1] [people] until they add [function] to [things]',
       '[people] came out in support of [things]',
       '[people] came out in support of [drama]',
       '[people] and [people] came out in support of [drama]',
@@ -513,8 +505,7 @@ module Drama
       '[people] rebalances [things] for [packs]',
       '[people] adds [function] to [things] by request of [people]',
       '[people] removes [function] from [things] by request of [people]',
-      '[people] removes compatibility between [things] and [things] by ' \
-        'request of [people]',
+      '[people] removes compatibility between [things] and [things] by request of [people]',
       '[people] [says] [people]\'s attitude is [adj]',
       '[people] [says] [sites]\'s attitude is [adj]',
       '[people] quits the development team of [things]',

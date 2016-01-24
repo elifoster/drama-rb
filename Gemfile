@@ -5,4 +5,5 @@ gem('sinatra', '1.4.6')
 
 group :test do
   gem 'rake'
+  gem 'minitest'
 end

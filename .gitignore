@@ -29,5 +29,3 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
-
-test.rb
