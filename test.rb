@@ -1,5 +1,8 @@
 require 'minitest/autorun'
+require 'coveralls'
 require_relative 'lib/drama/sentence_helper'
+
+Coveralls.wear!
 
 class TestHelper
   include SentenceHelper
