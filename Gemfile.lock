@@ -2,27 +2,27 @@ GEM
   remote: http://rubygems.org/
   specs:
     minitest (5.8.4)
-    puma (2.15.3)
+    puma (3.4.0)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
-    rake (11.1.0)
-    sinatra (1.4.6)
-      rack (~> 1.4)
+    rake (11.1.2)
+    sinatra (1.4.7)
+      rack (~> 1.5)
       rack-protection (~> 1.4)
       tilt (>= 1.3, < 3)
-    string-utility (2.7.0)
+    string-utility (2.7.2)
     tilt (2.0.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  minitest
-  puma (= 2.15.3)
-  rake
-  sinatra (= 1.4.6)
-  string-utility (= 2.7.0)
+  minitest (~> 5.8)
+  puma (~> 3.4)
+  rake (~> 11.1)
+  sinatra (~> 1.4)
+  string-utility (~> 2.7)
 
 BUNDLED WITH
    1.11.2
