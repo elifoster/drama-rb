@@ -10,8 +10,8 @@ describe 'Sentence Helper' do
 
   it 'should be a non-empty string' do
     sentence = helpers.generate_sentence
-    sentence.must_be_instance_of(String)
-    sentence.wont_be_nil
-    sentence.wont_be_empty
+    _(sentence).must_be_instance_of(String)
+    _(sentence).wont_be_nil
+    _(sentence).wont_be_empty
   end
 end

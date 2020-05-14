@@ -1,11 +1,11 @@
 source 'http://rubygems.org'
 
-ruby '2.3.0'
-gem('sinatra', '~> 1.4')
-gem('string-utility', '~> 2.7')
-gem('puma', '~> 3.4')
+ruby '2.6.5'
+gem('sinatra', '~> 2.0')
+gem('string-utility', '~> 3.0')
+gem('puma', '~> 4.3')
 
 group :test do
-  gem('rake', '~> 11.1')
-  gem('minitest', '~> 5.8')
+  gem('rake', '~> 13.0')
+  gem('minitest', '~> 5.14')
 end
