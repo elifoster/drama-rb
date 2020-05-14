@@ -3,7 +3,7 @@ GEM
   specs:
     minitest (5.8.4)
     puma (3.4.0)
-    rack (1.6.4)
+    rack (1.6.13)
     rack-protection (1.5.3)
       rack
     rake (11.1.2)
