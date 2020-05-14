@@ -6,6 +6,6 @@ gem('string-utility', '~> 2.7')
 gem('puma', '~> 3.4')
 
 group :test do
-  gem('rake', '~> 11.1')
+  gem('rake', '~> 12.3')
   gem('minitest', '~> 5.8')
 end
