@@ -22,7 +22,7 @@ module SentenceHelper
         adj: Drama::Constants::ADJECTIVES.sample,
         enormous: Drama::Constants::SIZES.sample,
         price: Drama::Constants::PRICES.sample,
-        ac1: Drama::Constants::SIZES.sample,
+        ac1: Drama::Constants::BADVERBS.sample,
         packs: Drama::Constants::PACKS.sample,
         drama: Drama::Constants::DRAMA.sample,
         code: Drama::Constants::CODE.sample,
