@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 ruby '2.3.0'
 gem('sinatra', '~> 1.4')
 gem('string-utility', '~> 2.7')
-gem('puma', '~> 3.4')
+gem('puma', '~> 3.12')
 
 group :test do
   gem('rake', '~> 11.1')
