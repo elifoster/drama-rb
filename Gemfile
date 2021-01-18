@@ -1,9 +1,9 @@
 source 'http://rubygems.org'
 
-ruby '2.6.5'
-gem('sinatra', '~> 2.0')
+ruby '~> 3.0'
+gem('sinatra', '~> 2.1')
 gem('string-utility', '~> 3.0')
-gem('puma', '~> 4.3')
+gem('puma', '~> 5.1')
 
 group :test do
   gem('rake', '~> 13.0')
